@@ -1,0 +1,8 @@
+.striked-through {
+  text-decoration: line-through;
+}
+
+progress {
+  width:100%;
+  margin:20px 0;
+}
